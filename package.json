@@ -1,0 +1,10 @@
+{
+    "name": "shitake.github-for-unity-with-commitizen",
+	"displayName": "GitHub For Unity With Commitizen",
+    "version": "1.4.0",
+    "unity": "2018.1",
+    "description": "GitHubForUnity with Commitizen.",
+	"keywords": ["GitHub", "git", "commitizen"],
+	"dependencies": {
+	}
+}
