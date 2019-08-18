@@ -15,7 +15,10 @@
 *.exe
 *.ini
 *.map
+*.pdb
+*.pdb.meta
 *.mdb
+*.mdb.meta
 *.npmrc
 *.pyc
 *.resS
